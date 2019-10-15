@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Maven: maum.brain:brain-sds-data:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/maum/brain/brain-sds-data/1.0-SNAPSHOT/brain-sds-data-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/maum/brain/brain-sds-data/1.0-SNAPSHOT/brain-sds-data-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/maum/brain/brain-sds-data/1.0-SNAPSHOT/brain-sds-data-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/maum-sds/brain-sds-data/src/main/java" />
+      <root url="file://$PROJECT_DIR$/maum-sds/brain-sds-data/target/generated-sources/protobuf/grpc-java" />
+      <root url="file://$PROJECT_DIR$/maum-sds/brain-sds-data/target/generated-sources/protobuf/java" />
+      <root url="file://$PROJECT_DIR$/maum-sds/brain-sds-adapter/src/main/java" />
+      <root url="file://$PROJECT_DIR$/maum-sds/brain-sds-collector/src/main/java" />
+      <root url="file://$PROJECT_DIR$/maum-sds/brain-sds-frontend2/src/main/java" />
+      <root url="file://$PROJECT_DIR$/maum-sds/brain-sds-frontend/src/main/java" />
+      <root url="file://$PROJECT_DIR$/maum-sds/brain-sds-log-store/src/main/java" />
+      <root url="file://$PROJECT_DIR$/maum-sds/brain-sds-maker/src/main/java" />
+      <root url="file://$PROJECT_DIR$/maum-sds/brain-sds-util/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

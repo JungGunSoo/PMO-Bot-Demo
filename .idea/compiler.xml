@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maven-archiver (7)" />
+        <module name="maven-archiver (1)" />
+        <module name="brain-sds-log-store" />
+        <module name="brain-sds-frontend (1)" />
+        <module name="brain-sds-data" />
+        <module name="maven-archiver (2)" />
+        <module name="brain-sds-adapter" />
+        <module name="brain-sds-frontend" />
+        <module name="maven-archiver (3)" />
+        <module name="brain-sds-util" />
+        <module name="maven-archiver (4)" />
+        <module name="maven-archiver (8)" />
+        <module name="maven-archiver (5)" />
+        <module name="brain-sds-collector" />
+        <module name="maven-archiver (6)" />
+        <module name="brain-sds-maker" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="brain-sds" target="1.8" />
+      <module name="brain-sds (1)" target="1.8" />
+      <module name="brain-sds-adapter" target="1.8" />
+      <module name="brain-sds-adapter (1)" target="1.8" />
+      <module name="brain-sds-collector" target="1.8" />
+      <module name="brain-sds-collector (1)" target="1.8" />
+      <module name="brain-sds-data" target="1.8" />
+      <module name="brain-sds-data (1)" target="1.8" />
+      <module name="brain-sds-frontend" target="1.8" />
+      <module name="brain-sds-frontend (1)" target="1.8" />
+      <module name="brain-sds-log-store" target="1.8" />
+      <module name="brain-sds-log-store (1)" target="1.8" />
+      <module name="brain-sds-maker" target="1.8" />
+      <module name="brain-sds-maker (1)" target="1.8" />
+      <module name="brain-sds-util" target="1.8" />
+      <module name="brain-sds-util (1)" target="1.8" />
+      <module name="maven-archiver" target="1.5" />
+      <module name="maven-archiver (1)" target="1.5" />
+      <module name="maven-archiver (2)" target="1.5" />
+      <module name="maven-archiver (3)" target="1.5" />
+      <module name="maven-archiver (4)" target="1.5" />
+      <module name="maven-archiver (5)" target="1.5" />
+      <module name="maven-archiver (6)" target="1.5" />
+      <module name="maven-archiver (7)" target="1.5" />
+      <module name="maven-archiver (8)" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1592372c-470f-4317-89e8-f7efdd809b6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/maum-sds/brain-sds-frontend/src/main/resources/static/resources/images/redtie_ico_70x70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maum-sds/brain-sds-frontend/src/main/resources/static/resources/images/title-ver3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maum-sds/brain-sds-maker/src/main/java/maum/brain/sds/maker/PW/RedmineApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maum-sds/run_all_pw.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-adapter/src/main/java/maum/brain/sds/adapter/client/SdsCollectorClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-adapter/src/main/java/maum/brain/sds/adapter/client/SdsCollectorClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-adapter/src/main/java/maum/brain/sds/adapter/controller/SdsAdapterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-adapter/src/main/java/maum/brain/sds/adapter/controller/SdsAdapterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-adapter/src/main/java/maum/brain/sds/adapter/service/SdsAdapterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-adapter/src/main/java/maum/brain/sds/adapter/service/SdsAdapterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-collector/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-collector/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-collector/src/main/java/maum/brain/sds/collector/client/BertItfClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-collector/src/main/java/maum/brain/sds/collector/client/BertItfClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-collector/src/main/java/maum/brain/sds/collector/client/SdsMakerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-collector/src/main/java/maum/brain/sds/collector/client/SdsMakerClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-collector/src/main/java/maum/brain/sds/collector/controller/SdsCollectorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-collector/src/main/java/maum/brain/sds/collector/controller/SdsCollectorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-collector/src/main/java/maum/brain/sds/collector/service/SdsCollectorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-collector/src/main/java/maum/brain/sds/collector/service/SdsCollectorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-data/src/main/java/maum/brain/sds/data/dto/adapter/SdsAdapterResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-data/src/main/java/maum/brain/sds/data/dto/adapter/SdsAdapterResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-data/src/main/java/maum/brain/sds/data/dto/adapter/SdsAdapterStringRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-data/src/main/java/maum/brain/sds/data/dto/adapter/SdsAdapterStringRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-data/src/main/java/maum/brain/sds/data/dto/collect/SdsIntentCollectRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-data/src/main/java/maum/brain/sds/data/dto/collect/SdsIntentCollectRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-data/src/main/java/maum/brain/sds/data/dto/general/SdsActionResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-data/src/main/java/maum/brain/sds/data/dto/general/SdsActionResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-data/src/main/java/maum/brain/sds/data/dto/maker/SdsMakerRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-data/src/main/java/maum/brain/sds/data/dto/maker/SdsMakerRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-data/src/main/java/maum/brain/sds/data/vo/SdsIntent.java" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-data/src/main/java/maum/brain/sds/data/vo/SdsIntent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-data/src/main/proto/itc.proto" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-data/src/main/proto/itc.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-frontend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-frontend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-frontend/src/main/java/maum/brain/sds/frontend/controller/ChatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-frontend/src/main/java/maum/brain/sds/frontend/controller/ChatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-frontend/src/main/java/maum/brain/sds/frontend/service/ChatService.java" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-frontend/src/main/java/maum/brain/sds/frontend/service/ChatService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-frontend/src/main/resources/static/resources/css/chatbot.css" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-frontend/src/main/resources/static/resources/css/chatbot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-frontend/src/main/resources/static/resources/images/redtie_ico.png" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-frontend/src/main/resources/static/resources/images/redtie_ico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-frontend/src/main/resources/static/resources/images/title-ver2.png" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-frontend/src/main/resources/static/resources/images/title-ver2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-frontend/src/main/resources/static/resources/js/chatbot.js" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-frontend/src/main/resources/static/resources/js/chatbot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-frontend/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-frontend/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-maker/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-maker/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-maker/src/main/java/maum/brain/sds/maker/controller/MakerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-maker/src/main/java/maum/brain/sds/maker/controller/MakerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-maker/src/main/java/maum/brain/sds/maker/service/MakerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-maker/src/main/java/maum/brain/sds/maker/service/MakerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/brain-sds-test-page/static/resources/js/chatbot.js" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/brain-sds-test-page/static/resources/js/chatbot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/hard_restart.sh" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/hard_restart.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/kill_all.sh" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/kill_all.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/restart.sh" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/restart.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maum-sds/run_all.sh" beforeDir="false" afterPath="$PROJECT_DIR$/maum-sds/run_all.sh" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/maum-sds" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="dedicatedModuleDir" value="D:\Desktop\maum-sds (2)" />
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RLwbSQZqXacaB6R2tiHfrnujsL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pmo-bot-demo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Desktop\pmo-bot-demo\maum-sds\brain-sds-frontend\src\main\resources\static\resources\images" />
+      <recent name="D:\Desktop\pmo-bot-demo\maum-sds\brain-sds-frontend\src\main\resources\static\resources\images\sample" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\pmo-bot-demo\maum-sds\brain-sds-frontend\src\main\resources\static\resources\images" />
+      <recent name="D:\Desktop\pmo-bot-demo\maum-sds\brain-sds-frontend\src\main\resources\static\resources\images\sample" />
+      <recent name="D:\Desktop\pmo-bot-demo\maum-sds\brain-sds-frontend\src\main\resources" />
+      <recent name="D:\Desktop\pmo-bot-demo\maum-sds\brain-sds-frontend\src\main\resources\static\resources\images\PW" />
+    </key>
+  </component>
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="$PROJECT_DIR$/../pmo-bot-demo/maum-sds/brain-sds-data/target/maven-archiver" />
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SdsFrontApplication">
+    <configuration name="AdapterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="brain-sds-adapter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="maum.brain.sds.adapter.AdapterApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseLoggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="brain-sds-log-store" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="maum.brain.sds.logdb.DatabaseLoggerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecisionMakerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="brain-sds-maker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="maum.brain.sds.maker.DecisionMakerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InfoCollectorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="brain-sds-collector" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="maum.brain.sds.collector.InfoCollectorApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SdsFrontApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="brain-sds-frontend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="maum.brain.sds.frontend.SdsFrontApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DecisionMakerApplication" />
+      <item itemvalue="Spring Boot.InfoCollectorApplication" />
+      <item itemvalue="Spring Boot.SdsFrontApplication" />
+      <item itemvalue="Spring Boot.DatabaseLoggerApplication" />
+      <item itemvalue="Spring Boot.AdapterApplication" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.084415585" />
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+          <option name="viewType" value="service" />
+          <option name="roots">
+            <list>
+              <ServiceState>
+                <option name="path">
+                  <list>
+                    <option value="Run Dashboard" />
+                    <option value="SpringBootApplicationConfigurationType" />
+                    <option value="Running" />
+                    <option value="SpringBootApplicationConfigurationType/DecisionMakerApplication" />
+                  </list>
+                </option>
+                <option name="contributor" value="com.intellij.execution.dashboard.RunConfigurationsServiceViewContributor" />
+              </ServiceState>
+            </list>
+          </option>
+        </serviceView>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+          <option name="viewType" value="service" />
+          <option name="roots">
+            <list>
+              <ServiceState>
+                <option name="path">
+                  <list>
+                    <option value="Run Dashboard" />
+                    <option value="SpringBootApplicationConfigurationType" />
+                    <option value="Running" />
+                    <option value="SpringBootApplicationConfigurationType/InfoCollectorApplication" />
+                  </list>
+                </option>
+                <option name="contributor" value="com.intellij.execution.dashboard.RunConfigurationsServiceViewContributor" />
+              </ServiceState>
+            </list>
+          </option>
+        </serviceView>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+          <option name="viewType" value="service" />
+          <option name="roots">
+            <list>
+              <ServiceState>
+                <option name="path">
+                  <list>
+                    <option value="Run Dashboard" />
+                    <option value="SpringBootApplicationConfigurationType" />
+                    <option value="Running" />
+                    <option value="SpringBootApplicationConfigurationType/SdsFrontApplication" />
+                  </list>
+                </option>
+                <option name="contributor" value="com.intellij.execution.dashboard.RunConfigurationsServiceViewContributor" />
+              </ServiceState>
+            </list>
+          </option>
+        </serviceView>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+          <option name="viewType" value="service" />
+          <option name="roots">
+            <list>
+              <ServiceState>
+                <option name="path">
+                  <list>
+                    <option value="Run Dashboard" />
+                    <option value="SpringBootApplicationConfigurationType" />
+                    <option value="Running" />
+                    <option value="SpringBootApplicationConfigurationType/DatabaseLoggerApplication" />
+                  </list>
+                </option>
+                <option name="contributor" value="com.intellij.execution.dashboard.RunConfigurationsServiceViewContributor" />
+              </ServiceState>
+            </list>
+          </option>
+        </serviceView>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+          <option name="viewType" value="service" />
+          <option name="roots">
+            <list>
+              <ServiceState>
+                <option name="path">
+                  <list>
+                    <option value="Run Dashboard" />
+                    <option value="SpringBootApplicationConfigurationType" />
+                    <option value="Running" />
+                    <option value="SpringBootApplicationConfigurationType/AdapterApplication" />
+                  </list>
+                </option>
+                <option name="contributor" value="com.intellij.execution.dashboard.RunConfigurationsServiceViewContributor" />
+              </ServiceState>
+            </list>
+          </option>
+        </serviceView>
+      </list>
+    </option>
+    <option name="selectedView" value="0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1592372c-470f-4317-89e8-f7efdd809b6a" name="Default Changelist" comment="" />
+      <created>1569459754130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569459754130</updated>
+      <workItem from="1569459755478" duration="111008000" />
+      <workItem from="1570411772071" duration="53995000" />
+      <workItem from="1570963033379" duration="1146000" />
+      <workItem from="1570964219712" duration="21000" />
+      <workItem from="1571013631962" duration="10900000" />
+      <workItem from="1571031625613" duration="1997000" />
+      <workItem from="1571033639989" duration="240000" />
+      <workItem from="1571033920600" duration="159000" />
+      <workItem from="1571034114619" duration="7844000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

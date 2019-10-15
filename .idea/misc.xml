@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/maum-sds/pom.xml" />
+        <option value="$PROJECT_DIR$/../maum-sds (2)/maum-sds/pom.xml" />
+        <option value="$PROJECT_DIR$/maum-sds/brain-sds-data/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/maum-sds/brain-sds-data/pom.xml" />
+        <option value="$PROJECT_DIR$/maum-sds/brain-sds-util/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/maum-sds/brain-sds-maker/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/maum-sds/brain-sds-adapter/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/maum-sds/brain-sds-frontend/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/maum-sds/brain-sds-collector/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/maum-sds/brain-sds-frontend2/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/maum-sds/brain-sds-frontend2/pom.xml" />
+        <option value="$PROJECT_DIR$/maum-sds/brain-sds-log-store/target/maven-archiver/pom.properties" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../maum-sds (2)/maum-sds/brain-sds-adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/../maum-sds (2)/maum-sds/brain-sds-collector/pom.xml" />
+        <option value="$PROJECT_DIR$/../maum-sds (2)/maum-sds/brain-sds-data/pom.xml" />
+        <option value="$PROJECT_DIR$/../maum-sds (2)/maum-sds/brain-sds-frontend/pom.xml" />
+        <option value="$PROJECT_DIR$/../maum-sds (2)/maum-sds/brain-sds-log-store/pom.xml" />
+        <option value="$PROJECT_DIR$/../maum-sds (2)/maum-sds/brain-sds-maker/pom.xml" />
+        <option value="$PROJECT_DIR$/../maum-sds (2)/maum-sds/brain-sds-util/pom.xml" />
+        <option value="$PROJECT_DIR$/../maum-sds (2)/maum-sds/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
